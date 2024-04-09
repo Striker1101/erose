@@ -829,7 +829,9 @@ main {
   line-height: 1.6;
 }
 
-
+.timeline-text > ol{
+  color: white;
+}
 /**
  * skills 
  */
